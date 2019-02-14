@@ -11,14 +11,14 @@ body {
 }
 table {
   width: 100%;
+  border-collapse: collapse;
 }
-table,
+
 th,
 td {
   background: rgba(193, 197, 250, 0.568);
   border: 1px solid black;
   padding: 5px;
-  border-radius: 5px;
 }
 
 th {
